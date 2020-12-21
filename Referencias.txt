@@ -1,0 +1,5 @@
+
+https://stackoverflow.com/questions/18313899/vba-new-database-connection
+https://analysistabs.com/excel-vba/ado-sql-macros-connecting-database/
+https://www.exceltip.com/import-and-export-in-vba/how-to-connect-excel-to-access-database-using-vba.html
+http://learnexcelmacro.com/wp/2011/12/how-to-connect-to-access-database-excel-macro/
